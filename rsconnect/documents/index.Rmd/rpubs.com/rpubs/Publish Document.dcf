@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/186793/38f99a9b9f6c44e4b57ec647b6711246
+bundleId: https://api.rpubs.com/api/v1/document/186793/38f99a9b9f6c44e4b57ec647b6711246
+url: http://rpubs.com/chidemannie/186793
+when: 1465086775.86045
